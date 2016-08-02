@@ -1,2 +1,2 @@
 # hello-world
-The guide
+Got to start somewhere
